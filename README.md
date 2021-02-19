@@ -12,4 +12,4 @@
 
 2. Gibbs sampler
 
-	<center><img src="./images/NW_gibbs.png" width="90%"></center>
+	<center><img src="./images/nw_gibbs.png" width="90%"></center>
