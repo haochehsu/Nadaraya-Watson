@@ -4,7 +4,7 @@
 
 ---
 
-### Estimate <img src="https://latex.codecogs.com/svg.latex?g" /> (black dotted line)
+### Estimate <img src="https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+g" alt="g"> (black dotted line)
 
 1. Kernel estimation
 
